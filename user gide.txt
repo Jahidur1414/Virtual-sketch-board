@@ -1,0 +1,15 @@
+To run this project you have to run those command
+
+( 1 ) for tensprflow ----> conda create -n tensorflow_env tensorflow 
+
+( 2 ) active tensorflow --- > conda activate tensorflow_env
+
+( 3 ) install opencv in anaconda command prompt --- > pip install opencv-python
+You maybe need those command for install opencv 
+1--- > conda update anaconda-navigator  
+2--- > conda update navigator-updater
+
+( 4 ) install numpy in anaconda command prompt --- > pip install numpy
+
+
+( 5 ) Finally run the test.py file --- > python test.py
