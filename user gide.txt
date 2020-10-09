@@ -13,3 +13,6 @@ You maybe need those command for install opencv
 
 
 ( 5 ) Finally run the test.py file --- > python test.py
+
+***** Website for full details ******
+https://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
